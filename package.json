@@ -47,6 +47,7 @@
   ],
   "dependencies": {
     "async": "^2.0.0",
+    "basic-auth": "^2.0.1",
     "body-parser": "^1.15.2",
     "bootstrap": "^3.3.7",
     "config": "^1.21.0",
