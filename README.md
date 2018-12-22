@@ -2,7 +2,7 @@
 
 A repository to help you setup [adminMongo](https://github.com/mrvautin/adminMongo) on a Dokku server with basic authentication, to help you manage your dokku mongoDB databases from anywhere.
 
-(Although it's not safe to expose it to the world, use a strong password, and use at your own risk, i take no responsability)
+(It's not safe to expose it to the world, use a strong password, and use at your own risk, i take no responsability)
  
 # Installation
 
